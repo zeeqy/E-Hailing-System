@@ -1,3 +1,19 @@
-💻 Our E-Hailing System is a powerful application developed in C++ to facilitate the seamless booking of rides. Users can order a ride by selecting the desired distance and the number of passengers. The system allows for secure payment processing and the application of discount codes. Upon completion of the transaction, a detailed receipt is generated. This solution aims to provide a convenient, efficient, and user-friendly experience for ride-hailing services.
+# E-Hailing System
 
-⌨️ Run the file name "CarDriverServicept4copy(fixed)" in the zipped file
+A C++ console application for booking rides. Users choose the trip distance and number of passengers, apply a discount code, pay, and get a receipt.
+
+Built as a team project for an introductory programming course at UiTM.
+
+## Features
+
+- Fare calculation by distance and passenger count
+- Discount code handling
+- Payment flow and printed receipt
+
+## Contents
+
+- `docs-flowchart.pdf`: system flowchart used to plan the program logic
+
+## Tech stack
+
+C++
